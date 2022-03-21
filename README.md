@@ -1,7 +1,3 @@
-## 前序
-
-* [「代码随想录」学习社区](https://programmercarl.com/other/kstar.html)
-
 ## 数组 
 
 1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
